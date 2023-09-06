@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sawhite26
 - 👀 I’m interested in improving my development skills as well as contributing to an open source project.
-- 🌱 I’m currently learning WordPress and Laravel.
-- 💞️ I’m looking to collaborate on just about anything.
+- 🌱 I’m currently re-learning PHP, SQL and some jQuery.
 - 📫 How to reach me -> sawhite26@gmail.com
 
 <!---
